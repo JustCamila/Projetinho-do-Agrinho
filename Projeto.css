@@ -1,21 +1,109 @@
 body {
-	background: #D4FFE9;}
+	background: #FFFFFF;
+}
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
+
+.inicial {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+	
+nav h1 {
+	font-size: 70px;
+	font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+nav h1 {
+	display: inline;
+	margin: 0 0 0 15px;
+}
 
 h1 {
+	text-transform: uppercase;
+	color: #000000;
+	}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+h3 {
+		font-size: 35px;
+		text-align: center;
+		padding: 30px;
+}
+h2 {
+	font-size: 40px;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #2e2500
 }
 
 p { 
 	text-align: center;
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
 }
 
-#banner {
-	width: 100%;
+#cuidados { 
+	font-size: 30px;
+	text-align: center; 
+	color: #FF1493;
+	background: #FFEFD5;
+	border: 10px double; color: #000000; 
+	padding: 15px;
+	margin: 10px;
 }
 
-#capa {
-	height: 5%;
-	width: 98%;
+.itens { 
+	text-align: center;
+	font-style: italic;
+	font-size: 22px;
+	margin: 15px;
+}
+
+.corpo {
+margin-top:50px ;
+margin-left: 500px;
+margin-right: 500px;
+margin-bottom: 50px;
+
+}
+
+footer {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+#Rodapé {
+	height: 80px;
+	width: 80px;
+}
+
+ #Since {
+ 	font-size: 15px;
+	text-align: center;
 	padding: 10px;
-	margin-left: 1px;
-	border: outset;
+ }
+
+#informação {
+	font-size: 12px;
+	text-align: center;
+}
