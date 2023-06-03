@@ -46,37 +46,43 @@ nav a {
 
 h3 {
 		font-size: 35px;
-		text-align: center;
 		padding: 30px;
+		text-align: center; 
+		color: #FF1493;
+		background: #c6f4eb;
+		border-radius: 10px 20px; color: #184f45; 
+		padding: 15px;
+		margin: 10px;
+		font-family: 'Quicksand', sans-serif;
 }
 h2 {
 	font-size: 40px;
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	color: #2e2500
+	font-family: 'Quicksand', sans-serif;
+	color: #005c49;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	background: #c6f4eb;
+		border-radius: 10px 20px; color: #184f45; 
+		padding: 15px;
+		margin: 10px;
 }
 
 p { 
 	text-align: center;
 	font-size: 25px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	color: #333333;
+	line-height: 35px;
 }
 
-#cuidados { 
-	font-size: 30px;
-	text-align: center; 
-	color: #FF1493;
-	background: #FFEFD5;
-	border: 10px double; color: #000000; 
-	padding: 15px;
-	margin: 10px;
-}
 
 .itens { 
 	text-align: center;
 	font-style: italic;
 	font-size: 22px;
 	margin: 15px;
+	font-family: 'Quicksand', sans-serif;
 }
 
 .corpo {
@@ -85,6 +91,20 @@ margin-left: 500px;
 margin-right: 500px;
 margin-bottom: 50px;
 
+}
+
+h4 {
+	color: #00705c;
+	font-weight: 900;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	background: #c6f4eb;
+		border-radius: 10px 20px; color: #184f45; 
+		padding: 15px;
+		margin: 10px;
 }
 
 footer {
