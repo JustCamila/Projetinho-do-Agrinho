@@ -12,6 +12,12 @@ header {
     position: relative;
     width: 940px;
     margin: 0 auto;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.corpo {
+	margin-left: 300px;
+	margin-right: 300px;
 }
 
 nav {
@@ -49,37 +55,54 @@ nav a {
     box-sizing: border-box; 
 }
 
-#Amy {
+#gato1 {
 	width: 255px;
 	height: 340px;
 	padding: 5px;
 }
 
-#Apolo {
+#gato2 {
 	width: 255px;
 	height: 340px;
-	padding: 10px;
+	padding: 5px;
 }
 
-#Couple {
+#gato3 {
 	width: 255px;
 	height: 340px;
-	padding: 10px;
+	padding: 5px;
 }
 
 .Bichanos h2 {
     font-size: 30px;
     font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+	color: #FF1493;
+	background: #c6f4eb;
+	border-radius: 10px 20px; color: #184f45;
+	padding: 15px;
+	margin-left: 20px;
+	
 }
+
 
 .produto-descricao {
     font-size: 18px;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 30px;
+
 }
 
 .produto-situação {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 40px;
+	background: #c6f4eb;
+	border-radius: 10px 20px; color: #184f45;
+	padding: 15px;
+	margin-left: 20px;
 }
 
 footer {
