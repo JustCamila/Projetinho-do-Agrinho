@@ -16,8 +16,8 @@ header {
 }
 
 .corpo {
-	margin-left: 300px;
-	margin-right: 300px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 nav {
@@ -46,7 +46,7 @@ nav a {
 }
 
 .Bichanos li {
-    display: inline-block;
+    display:inline-block;
     text-align: center;
     width: 30%;
     vertical-align: top;
